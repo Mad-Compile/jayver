@@ -1,0 +1,80 @@
+PROPRIETARY SOFTWARE LICENSE
+Jayver Launcher
+Copyright © 2026 Mad-Compile and the project's original creator(s). All rights reserved.
+
+IMPORTANT
+This is a proprietary, closed-source license. It is not an open-source license and does not grant the public permission to use, copy, modify, publish, distribute, sublicense, sell, or otherwise exploit the Software.
+
+1. DEFINITIONS
+
+“Software” means Jayver Launcher and all source code, object code, binaries, builds, installer packages, artwork, graphics, logos, icons, designs, user-interface elements, documentation, text, scripts, configuration, and other materials made available in or with this repository, excluding Third-Party Materials.
+
+“Rights Holders” means Mad-Compile and the original creator(s) of the Software, each to the extent of their respective ownership and rights.
+
+“Third-Party Materials” means components, libraries, assets, or other materials owned by parties other than the Rights Holders and identified as such or otherwise subject to separate terms.
+
+2. OWNERSHIP AND RESERVATION OF RIGHTS
+
+The Software is proprietary. Except for rights that cannot lawfully be restricted, all rights, title, and interest in and to the Software—including all intellectual-property rights—are and remain with the Rights Holders or their respective licensors.
+
+No ownership, authorship, assignment, or transfer of rights is granted to any recipient by access to this repository, possession of a copy, downloading, viewing, or use of the Software.
+
+All rights not expressly granted in a separate written license signed by an authorized Rights Holder are reserved.
+
+3. NO PUBLIC LICENSE OR GENERAL PERMISSION
+
+Unless you have prior written permission from an authorized Rights Holder, you may not, directly or indirectly:
+
+a. use, run, install, reproduce, copy, or make copies of the Software;
+b. modify, adapt, translate, merge, port, transform, or create derivative works based on the Software;
+c. publish, post, upload, distribute, transmit, share, sublicense, rent, lease, sell, resell, or otherwise make the Software or any portion of it available to another person;
+d. use the Software or any portion of it in another product, service, project, repository, or commercial or non-commercial offering;
+e. remove, obscure, alter, or bypass copyright, proprietary, attribution, or other legal notices or technical restrictions;
+f. reverse engineer, decompile, disassemble, or attempt to derive source code from object code, except to the limited extent that applicable law expressly permits and does not allow contractual restriction; or
+g. use the Software, its branding, or project materials to imply endorsement, affiliation, or authorization by the Rights Holders.
+
+Access to a public repository, if the repository is ever made public, does not by itself grant any of the permissions listed above. Repository visibility is an access setting, not a software license.
+
+4. LIMITED PERMISSION FOR AUTHORIZED REVIEW
+
+If the Rights Holders intentionally make the repository publicly viewable, visitors may view the materials through the repository hosting service solely to inspect the project, subject to that service's terms and applicable law. This limited permission does not grant permission to download for reuse, execute, reproduce, modify, redistribute, or create derivative works.
+
+Any broader permission must be stated in a separate written license from an authorized Rights Holder. No permission is granted by implication, estoppel, exhaustion, or otherwise, except where applicable law requires it.
+
+5. THIRD-PARTY MATERIALS
+
+This license does not replace, override, or restrict the separate licenses governing Third-Party Materials. Those materials remain subject to their respective copyright notices and license terms. Nothing in this license grants rights in third-party trademarks, software, fonts, libraries, or other materials.
+
+6. CONTRIBUTIONS
+
+Unless a separate written agreement says otherwise, submitting a contribution does not automatically transfer ownership of that contribution to Mad-Compile or any other Rights Holder. A contributor must have the legal right to submit the contribution and must identify any third-party restrictions that apply. The Rights Holders may decline or remove contributions that do not meet project requirements or whose licensing status is unclear.
+
+7. NO WARRANTY
+
+To the maximum extent permitted by applicable law, the Software is provided “AS IS” and “AS AVAILABLE”, without warranties or conditions of any kind, whether express, implied, statutory, or otherwise, including warranties of merchantability, fitness for a particular purpose, title, and non-infringement. The Rights Holders do not warrant that the Software will be uninterrupted, error-free, secure, or suitable for any particular purpose.
+
+8. LIMITATION OF LIABILITY
+
+To the maximum extent permitted by applicable law, the Rights Holders will not be liable for any indirect, incidental, special, consequential, exemplary, or punitive damages, or for loss of data, profits, revenue, business, goodwill, or business opportunity, arising out of or relating to the Software or this license, under any theory of liability, even if advised of the possibility of such damages.
+
+Nothing in this license excludes or limits liability where such exclusion or limitation is prohibited by applicable law.
+
+9. TERMINATION
+
+Any permission expressly granted under a separate written agreement may be terminated in accordance with that agreement. Any purported exercise of rights outside the scope of an applicable permission is unauthorized. Upon termination of a written permission, the recipient must cease the activities covered by that permission and comply with its return or deletion requirements, subject to mandatory legal retention obligations.
+
+10. ENFORCEMENT AND CONTACT
+
+The Rights Holders reserve all remedies available under applicable law for infringement or unauthorized use. If you believe you have permission to use the Software, retain the written authorization that establishes the scope of that permission.
+
+For licensing requests, contact Mad-Compile through the official project or organization contact channel.
+
+11. GOVERNING LAW
+
+This license is governed by the laws applicable to the relevant Rights Holder, excluding conflict-of-law rules, unless mandatory law requires otherwise. The appropriate governing law and forum should be specified in a signed agreement where a particular transaction or permission requires certainty.
+
+12. ENTIRE LICENSE
+
+This document states the default license for the Software in this repository. It does not supersede mandatory law, separate written agreements, or the licenses of Third-Party Materials. If any provision is unenforceable, the remaining provisions continue to apply to the extent permitted by law.
+
+END OF LICENSE
