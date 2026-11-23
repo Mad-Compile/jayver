@@ -1,15 +1,15 @@
 {
-  "version": "0.1.298",
+  "version": "0.1.301",
   "notes": "Signed Windows update for Jayver.\n\nIncludes the latest launcher improvements and fixes.",
-  "pub_date": "2026-11-23T10:28:35.498Z",
+  "pub_date": "2026-11-23T10:41:25.262Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWUw5YXJETXBjTHZsbTBUV1lSMG90WjRhVzVzYUFCR29nbFN4RE1PQjhTUjljRGYyZ1dIOEdudCtHNGoveXp4eEFPT2VjeU5uN00xVHF2WjJlU05pNnRXNVZWV0NoV3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDI5NzEwCWZpbGU6SmF5dmVyIExhdW5jaGVyXzAuMS4yOThfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4yOTgKWjB5UE9yVjZLTWdGMXhjbk5McHUwdENNYW52NGxaNHB6NFJvOWFEYXdJYUg2TEovTVBBOC9HRVZSVmlVV1NTbUNXNUk5ODJpMDRnbFZaU2VKVmExQ3c9PQo=",
-      "url": "https://api.github.com/repos/Mad-Compile/jayver/releases/assets/782502713"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWUw5YXJETXBjTHBBTUZmUVozSTNBWnRFY3Y2a3c5R1FpVXpPVFJsOXRuVmM2ZWN3dm9jS3VHcGdheTczNU0vV1NEcTZjOG44a1Ara1cxVGVCa0RCYmxlUXhneE1lTkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDMwNDgwCWZpbGU6SmF5dmVyIExhdW5jaGVyXzAuMS4zMDFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4zMDEKNjI2T1VVS0tBR2xwanpCOERPeXBWNDBoVEdYWkZZZ1BSQk5KQkk5bDY5Vm1NWkkzWGl4ZlRSQ2xJYzN0THNzM05GazdiRkRzMSt2Yit2VVVkMkIwQlE9PQo=",
+      "url": "https://api.github.com/repos/Mad-Compile/jayver/releases/assets/782541573"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWUw5YXJETXBjTHZsbTBUV1lSMG90WjRhVzVzYUFCR29nbFN4RE1PQjhTUjljRGYyZ1dIOEdudCtHNGoveXp4eEFPT2VjeU5uN00xVHF2WjJlU05pNnRXNVZWV0NoV3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDI5NzEwCWZpbGU6SmF5dmVyIExhdW5jaGVyXzAuMS4yOThfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4yOTgKWjB5UE9yVjZLTWdGMXhjbk5McHUwdENNYW52NGxaNHB6NFJvOWFEYXdJYUg2TEovTVBBOC9HRVZSVmlVV1NTbUNXNUk5ODJpMDRnbFZaU2VKVmExQ3c9PQo=",
-      "url": "https://api.github.com/repos/Mad-Compile/jayver/releases/assets/782502713"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWUw5YXJETXBjTHBBTUZmUVozSTNBWnRFY3Y2a3c5R1FpVXpPVFJsOXRuVmM2ZWN3dm9jS3VHcGdheTczNU0vV1NEcTZjOG44a1Ara1cxVGVCa0RCYmxlUXhneE1lTkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDMwNDgwCWZpbGU6SmF5dmVyIExhdW5jaGVyXzAuMS4zMDFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4zMDEKNjI2T1VVS0tBR2xwanpCOERPeXBWNDBoVEdYWkZZZ1BSQk5KQkk5bDY5Vm1NWkkzWGl4ZlRSQ2xJYzN0THNzM05GazdiRkRzMSt2Yit2VVVkMkIwQlE9PQo=",
+      "url": "https://api.github.com/repos/Mad-Compile/jayver/releases/assets/782541573"
     }
   }
 }
